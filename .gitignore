@@ -1,43 +1,90 @@
-# Windows image file caches
+
+#ignore thumbnails created by windows
 Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+build/classes/british/wildlife/assosiation/BritishWildlifeAssosiation.class
+build/classes/british/wildlife/assosiation/GUI$1.class
+build/classes/british/wildlife/assosiation/GUI$10.class
+build/classes/british/wildlife/assosiation/GUI$11.class
+build/classes/british/wildlife/assosiation/GUI$12.class
+build/classes/british/wildlife/assosiation/GUI$13.class
+build/classes/british/wildlife/assosiation/GUI$14.class
+build/classes/british/wildlife/assosiation/GUI$15.class
+build/classes/british/wildlife/assosiation/GUI$2.class
+build/classes/british/wildlife/assosiation/GUI$3.class
+build/classes/british/wildlife/assosiation/GUI$4.class
+build/classes/british/wildlife/assosiation/GUI$5.class
+build/classes/british/wildlife/assosiation/GUI$6.class
+build/classes/british/wildlife/assosiation/GUI$7.class
+build/classes/british/wildlife/assosiation/GUI$8.class
+build/classes/british/wildlife/assosiation/GUI$9.class
+build/classes/british/wildlife/assosiation/GUI.class
+build/classes/british/wildlife/assosiation/GUI.form
+build/classes/british/wildlife/assosiation/Observation.class
+build/classes/british/wildlife/assosiation/ProfessionalObserver.class
+build/classes/british/wildlife/assosiation/VolenteerObserver.class
+nbproject/private/private.xml
+build/*
+build/*
+build/classes/british/wildlife/assosiation/GUI$6.class
+build/classes/british/wildlife/assosiation/Animal.class
+build/classes/british/wildlife/assosiation/BritishWildlifeAssosiation.class
+build/classes/british/wildlife/assosiation/GUI$6.class
+build/classes/british/wildlife/assosiation/GUI$7.class
+build/classes/british/wildlife/assosiation/GUI$8.class
+build/classes/british/wildlife/assosiation/GUI$9.class
+build/classes/british/wildlife/assosiation/GUI.class
+build/classes/british/wildlife/assosiation/GUI.form
+build/classes/british/wildlife/assosiation/Observer.class
+build/classes/british/wildlife/assosiation/ThreatList.class
+nbproject/private/private.xml
+nbproject/private/profiler/configurations.xml
+build/classes/british/wildlife/assosiation/BritishWildlifeAssosiation.class
+build/classes/british/wildlife/assosiation/GUI$1.class
+build/classes/british/wildlife/assosiation/GUI$2.class
+build/classes/british/wildlife/assosiation/GUI$3.class
+build/classes/british/wildlife/assosiation/GUI$4.class
+build/classes/british/wildlife/assosiation/GUI$5.class
+build/classes/british/wildlife/assosiation/GUI$6.class
+build/classes/british/wildlife/assosiation/GUI$7.class
+build/classes/british/wildlife/assosiation/GUI$8.class
+build/classes/british/wildlife/assosiation/GUI$9.class
+build/classes/british/wildlife/assosiation/GUI.class
+/dist/
+build/classes/british/wildlife/assosiation/GUI.class
+build/classes/british/wildlife/assosiation/GUI$1.class
+build/classes/british/wildlife/assosiation/GUI$2.class
+build/classes/british/wildlife/assosiation/GUI$3.class
+build/classes/british/wildlife/assosiation/GUI$4.class
+build/classes/british/wildlife/assosiation/GUI$5.class
+build/classes/british/wildlife/assosiation/GUI$6.class
+build/classes/british/wildlife/assosiation/GUI$7.class
+build/classes/british/wildlife/assosiation/GUI$8.class
+build/classes/british/wildlife/assosiation/GUI$9.class
+build/classes/british/wildlife/assosiation/GUI.class
+build/classes/british/wildlife/assosiation/GUI.form
